@@ -1,0 +1,4 @@
+[submodule "opensur/fe"]
+	path = opensur/fe
+	url = https://irabaza:manager123@git.opensur.com/uruguay/fe_new.git
+	branch = bitafal.test
