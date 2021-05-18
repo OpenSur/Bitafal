@@ -2,3 +2,7 @@
 	path = opensur/fe
 	url = https://irabaza:manager123@git.opensur.com/uruguay/fe_new.git
 	branch = bitafal.prod
+[submodule "bitafal"]
+	path = bitafal
+	url = https://irabaza:manager123@git.opensur.com/clientes/bitafal.git
+	branch = prod
