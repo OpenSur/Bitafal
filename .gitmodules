@@ -6,3 +6,7 @@
 	path = bitafal
 	url = https://irabaza:manager123@git.opensur.com/clientes/bitafal.git
 	branch = master
+[submodule "OCA/web"]
+	path = OCA/web
+	url = https://github.com/OCA/web.git
+	branch = 14.0
