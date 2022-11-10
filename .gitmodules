@@ -10,3 +10,19 @@
 	path = OCA/web
 	url = https://github.com/OCA/web.git
 	branch = 14.0
+[submodule "opensur/assets"]
+	path = opensur/assets
+	url = git@git.opensur.com:laboratorio/assets.git
+	branch = v14.bitafal
+[submodule "opensur/helpdesk"]
+	path = opensur/helpdesk
+	url = git@git.opensur.com:laboratorio/helpdesk.git
+	branch = v14.bitafal
+[submodule "opensur/model_extensions"]
+	path = opensur/model_extensions
+	url = git@git.opensur.com:laboratorio/model_extensions.git
+	branch = v14.bitafal
+[submodule "opensur/partner_documents"]
+	path = opensur/partner_documents
+	url = git@git.opensur.com:laboratorio/partner_documents.git
+	branch = v14.bitafal
