@@ -22,3 +22,7 @@
 	path = opensur/partner_documents
 	url = git@git.opensur.com:laboratorio/partner_documents.git
 	branch = v14.bitafal.prod
+[submodule "OCA/web"]
+	path = OCA/web
+	url = https://github.com/OCA/web.git
+	branch = 14.0
