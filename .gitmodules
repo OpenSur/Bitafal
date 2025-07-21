@@ -1,28 +1,28 @@
 [submodule "OCA/web"]
 	path = OCA/web
 	url = https://github.com/OCA/web.git
-	branch = 14.0
+	branch = 18.0
 [submodule "bitafal"]
 	path = bitafal
 	url = git@git.opensur.com:clientes/bitafal.git
-	branch = master
+	branch = 18.0_test
 [submodule "opensur/fe"]
 	path = opensur/fe
 	url = git@git.opensur.com:uruguay/fe_new.git
-	branch = bitafal.test
+	branch = 18.0
 [submodule "opensur/assets"]
 	path = opensur/assets
 	url = git@git.opensur.com:laboratorio/assets.git
-	branch = v14.bitafal
+	branch = v18.bitafal
 [submodule "opensur/helpdesk"]
 	path = opensur/helpdesk
 	url = git@git.opensur.com:laboratorio/helpdesk.git
-	branch = v14.bitafal
+	branch = v18.bitafal
 [submodule "opensur/model_extensions"]
 	path = opensur/model_extensions
 	url = git@git.opensur.com:laboratorio/model_extensions.git
-	branch = v14.bitafal
+	branch = v18.bitafal
 [submodule "opensur/partner_documents"]
 	path = opensur/partner_documents
 	url = git@git.opensur.com:laboratorio/partner_documents.git
-	branch = v14.bitafal
+	branch = v18.bitafal
