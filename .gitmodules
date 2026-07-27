@@ -27,3 +27,7 @@
 	url = git@git.opensur.com:laboratorio/partner_documents.git
 	branch = v18.bitafal
 
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+	branch = 18.0
