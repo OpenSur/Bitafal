@@ -27,3 +27,7 @@
 	url = git@github.com:OCA/web.git
 	branch = 18.0
 
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+	branch = 18.0
